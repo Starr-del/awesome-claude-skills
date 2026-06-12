@@ -6,7 +6,7 @@ Claude Code skills are specialized folders containing a `SKILL.md` file with ins
 
 **[Official Documentation](https://code.claude.com/docs/en/skills)** | **[Anthropic Skills Repo](https://github.com/anthropics/skills)** | **[Agent Skills Spec](https://github.com/anthropics/skills/blob/main/spec/agent-skills-spec.md)**
 
-## Contents
+## Contentsf
 
 - [What Are Claude Code Skills?](#what-are-claude-code-skills)
 - [How to Install a Skill](#how-to-install-a-skill)
@@ -203,10 +203,10 @@ Skills that ship with Claude Code or are maintained by Anthropic.
 
 ### Databases
 
+- [migration-reversibility](https://github.com/Starr-del/ShipSafe/tree/main/skills/migration-reversibility) - Audits SQL migrations for irreversible operations, deploy-window breakers, and missing Supabase Row Level Security before they reach production.
 - [schema-designer](https://github.com/anthropics/skills) - Designs database schemas with normalization, indexing strategy, and generates migration files for PostgreSQL, MySQL, or SQLite.
 - [query-optimizer](https://github.com/anthropics/skills) - Analyzes SQL queries and suggests optimizations including index recommendations, query rewrites, and execution plan analysis.
 - [seed-data-generator](https://github.com/anthropics/skills) - Generates realistic seed data for databases with proper relationships, constraints, and configurable volume.
-- [migration-reversibility](https://github.com/Starr-del/ShipSafe/tree/main/skills/migration-reversibility) - Audits SQL migrations for irreversible operations, deploy-window breakers, and missing Supabase Row Level Security before they reach production.
 
 ## DevOps & Infrastructure
 
