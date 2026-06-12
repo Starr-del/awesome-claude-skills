@@ -6,7 +6,7 @@ Claude Code skills are specialized folders containing a `SKILL.md` file with ins
 
 **[Official Documentation](https://code.claude.com/docs/en/skills)** | **[Anthropic Skills Repo](https://github.com/anthropics/skills)** | **[Agent Skills Spec](https://github.com/anthropics/skills/blob/main/spec/agent-skills-spec.md)**
 
-## Contentsf
+## Contents
 
 - [What Are Claude Code Skills?](#what-are-claude-code-skills)
 - [How to Install a Skill](#how-to-install-a-skill)
