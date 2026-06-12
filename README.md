@@ -206,6 +206,7 @@ Skills that ship with Claude Code or are maintained by Anthropic.
 - [schema-designer](https://github.com/anthropics/skills) - Designs database schemas with normalization, indexing strategy, and generates migration files for PostgreSQL, MySQL, or SQLite.
 - [query-optimizer](https://github.com/anthropics/skills) - Analyzes SQL queries and suggests optimizations including index recommendations, query rewrites, and execution plan analysis.
 - [seed-data-generator](https://github.com/anthropics/skills) - Generates realistic seed data for databases with proper relationships, constraints, and configurable volume.
+- [migration-reversibility](https://github.com/Starr-del/ShipSafe/tree/main/skills/migration-reversibility) - Audits SQL migrations for irreversible operations, deploy-window breakers, and missing Supabase Row Level Security before they reach production.
 
 ## DevOps & Infrastructure
 
